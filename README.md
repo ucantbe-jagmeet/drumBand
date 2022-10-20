@@ -1,2 +1,2 @@
-It is made with HTML , CSS and JAVASCRIPT only 
-MAin function is to play Drum ABnd virtually 
+It is made with HTML , CSS and JAVASCRIPT only.
+Main function is to play Drum ABnd virtually 
